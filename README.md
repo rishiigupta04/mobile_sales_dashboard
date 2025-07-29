@@ -1,7 +1,6 @@
 # 📱 Mobile Sales Dashboard – Power BI Project
 
-🚀 **Project Launch:**  
-An interactive and insightful **Mobile Sales Dashboard** built using **Microsoft Power BI**. This project transforms complex mobile sales data into meaningful, actionable insights that support strategic business decisions.
+🚀 An interactive and insightful **Mobile Sales Dashboard** built using **Microsoft Power BI**. This project transforms complex mobile sales data into meaningful, actionable insights that support strategic business decisions.
 
 ## 🌐 Live Dashboard
 🔗 [Click here to explore the live dashboard](https://t.ly/G6-Pb)
